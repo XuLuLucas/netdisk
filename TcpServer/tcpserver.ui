@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Tcpserver</class>
+ <widget class="QWidget" name="Tcpserver">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>239</width>
+    <height>132</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Tcpserver</string>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

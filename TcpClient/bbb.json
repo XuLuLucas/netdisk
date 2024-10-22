@@ -1,0 +1,28 @@
+{
+    "FUT": "0@0",
+    "children": [
+        {
+            "FUT": "0@0",
+            "children": [
+            ],
+            "isDirectory": true,
+            "name": "666"
+        },
+        {
+            "FUT": "0@0",
+            "children": [
+                {
+                    "FUT": "0@0",
+                    "children": [
+                    ],
+                    "isDirectory": true,
+                    "name": "xulu"
+                }
+            ],
+            "isDirectory": true,
+            "name": "444"
+        }
+    ],
+    "isDirectory": true,
+    "name": "root"
+}
